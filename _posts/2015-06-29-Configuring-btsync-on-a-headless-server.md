@@ -100,7 +100,7 @@ Much of that is actually not needed in our case, since we very much do not want 
  * `use_upnp`: Can be `true` or `false`. Our firewall blocks upnp, so I use `false`.
  * The `shared_folders` section, described below.
 
-Aside from the `shared_folders section, the beginning of my configuration file looks like the following:
+Aside from the `shared_folders` section, the beginning of my configuration file looks like the following:
 
     {
       "device_name": "MPI-IE Sequence Sharing",
